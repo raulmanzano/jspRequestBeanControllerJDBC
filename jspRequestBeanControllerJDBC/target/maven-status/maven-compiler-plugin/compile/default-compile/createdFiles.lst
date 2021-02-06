@@ -1,0 +1,5 @@
+es\manzano\ejemplo\jspjdbc\model\Secundaria.class
+es\manzano\ejemplo\jspjdbc\controllerBeans\SecundariaControllerBean.class
+es\manzano\ejemplo\jspjdbc\business\BusinessDelegate.class
+es\manzano\ejemplo\jspjdbc\model\Primaria.class
+es\manzano\ejemplo\jspjdbc\controllerBeans\PrimariaControllerBean.class
